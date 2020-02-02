@@ -1,0 +1,19 @@
+ID | User Story | Effort | Priority | Validation Requirements | Status
+---|------------|--------|----------|-------------------------|-------
+000 | As developers, we will create a  2D project on unity | 4 | 1 | A 2D project on unity is | DONE
+001 | As developers, we will create a tile environment for the game | 4 | 2 | An enpty grid is created and unity assets used to create the map environment | DONE
+002 | As developers, we will create a functionality so When the user clicks on the game, a black screen appears displaying the name of the game | 6 | 3 | Software created so when I click on the game, a black screen is opened showing the name of the game | WORKING
+003 | As developers, we will create a database with all the types of questions that the user will have to answer | 5 | 4 | A database of questions is created ranging from pop culture, to history, to music | WORKING
+004 | As developers, we will create a grid in unity by placing tiles that will serve as the first version of the map | 5 | 5 | A basic grid will created that goes in all 4 cardinal directions| NOT STARTED
+005 | As developers, we will create a main menu with a way to start and quit the game | 7 | 6 | A menu will be created as soon as the game is launched with the ability to start and quit the game | NOT STARTED
+006 | As developers, we will create a 2D map with a start and an end | 8 | 8 | The player will spawn on the start tile and the game will end when he reaches the end tile | NOT STARTED
+007 | As developers, we will add a functionality so that as the user steps on a tile, a question will pop up | 7 | 9 | When landing on a tile, player movement will be reduc | NOT STARTED
+008 | As developers, we will create a pause menu with the options to continue and quit | 8 | 10 | When the player wishes, they will be able to payse the game, and then be able to contiue playing or quit the game | NOT STARTED
+009 | As developers, we will give player control in 4 directions | 8 | 7 | The play will be able to move in all 4 cardinal directions | NOT STARTED
+010 | As developers, we will create pop ups for the player to see as he moves across the map | 9 | 11 | The player will be able to see which tile will contain power ups | NOT STARTED
+011 | As developers, we will build a software that lets the user be able to answer the questions that pop up | 8 | 12 | After a question pops up, the player's movement will be restricted, and the user will be gicen the ability to answer the prompted question | NOT STARTED
+012 | As developers, we will add power ups as the user answers more questions correctly | 10 | 13 | After a certain goal has been achieved, the player will be given a power up that will make the game easier when used | NOT STARTED
+013 | As developers, we will be setting a limit on how many questions the user can get wrong before the game ends | 6 | 14 | After a certain ammount of questions have been answered incorrectly, the game will display a game over message and end the game | NOT STARTED
+014 | As developers, we will be saving and tracking user data as the user porogress through the game | 6 | 15 | The game will keep track of certain things such as score, what power ups they have, and how much life they have left | NOT STARTED
+015 | As developers, we will displaying user data to the user so the user is aware of his/her progress | 7 | 16 | The player will be able to see these things in the previous user story | NOT STARTED
+016 | As developers, we will create a mini version of the map for the user to utilize | 7 | 17 | A mini version of the map will be visible to the p;ayers | NOT STARTED		
