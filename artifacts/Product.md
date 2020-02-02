@@ -16,4 +16,4 @@ ID | User Story | Effort | Priority | Validation Requirements | Status
 013 | As developers, we will be setting a limit on how many questions the user can get wrong before the game ends | 6 | 14 | After a certain ammount of questions have been answered incorrectly, the game will display a game over message and end the game | NOT STARTED
 014 | As developers, we will be saving and tracking user data as the user porogress through the game | 6 | 15 | The game will keep track of certain things such as score, what power ups they have, and how much life they have left | NOT STARTED
 015 | As developers, we will displaying user data to the user so the user is aware of his/her progress | 7 | 16 | The player will be able to see these things in the previous user story | NOT STARTED
-016 | As developers, we will create a mini version of the map for the user to utilize | 7 | 17 | A mini version of the map will be visible to the p;ayers | NOT STARTED		
+016 | As developers, we will create a mini version of the map for the user to utilize | 7 | 17 | A mini version of the map will be visible to the players | NOT STARTED		
