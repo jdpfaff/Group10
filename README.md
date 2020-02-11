@@ -28,7 +28,7 @@ Unlike normal online quizzes, our game will allow the player the free will to ch
 
 - [Product Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Product.md)
 
-- [Sprint Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Sprint1.md)
+- [Sprint Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Sprint2.md)
 
 - [Requirements](https://github.com/bquiroga10/Group10/blob/master/artifacts/Requirements.md)
 
@@ -54,7 +54,7 @@ Unlike normal online quizzes, our game will allow the player the free will to ch
 
 - [Product Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Product.md)
 
-- [Sprint Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Sprint1.md)
+- [Sprint Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Sprint3.md)
 
 - [Requirements](https://github.com/bquiroga10/Group10/blob/master/artifacts/Requirements.md)
 
