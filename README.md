@@ -10,7 +10,7 @@ Unlike normal online quizzes, our game will allow the player the free will to ch
 
 ------------------------------------------------------------------------------------------------
 
-**Sprint 1 (Please regrade if possible)**
+**Sprint 1**
 
 *[Product Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Product.md)
 
@@ -37,6 +37,14 @@ Unlike normal online quizzes, our game will allow the player the free will to ch
 *[Burndown and Velocity chart](https://docs.google.com/spreadsheets/d/1c19jIiDAFveZubnuQdf-lcTjxe98yklTnnw0_VnYVbQ/edit?usp=sharing)
 
 *[Architecture](https://github.com/bquiroga10/Group10/tree/master/artifacts/architecture)
+
+  *[Architectural Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/ArchitecturalDiagram.png)
+
+  *[Class Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/ClassDiagram.PNG)
+
+  *[Sequence Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/SequenceDiagram.png)
+
+  *[User Interface Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/User%20Interface%20Diagram.png)
 
 *[Demonstration](https://www.youtube.com/watch?v=IKeQ9VYvKb4)
 
