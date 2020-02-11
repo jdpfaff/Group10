@@ -20,7 +20,7 @@ Unlike normal online quizzes, our game will allow the player the free will to ch
 
 ------------------------------------------------------------------------------------------------
 
-**Sprint 2
+**Sprint 2**
 *[Product Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Product.md)
 *[Sprint Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Sprint1.md)
 *[Requirements](https://github.com/bquiroga10/Group10/blob/master/artifacts/Requirements.md)
