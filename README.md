@@ -12,39 +12,39 @@ Unlike normal online quizzes, our game will allow the player the free will to ch
 
 **Sprint 1**
 
--[Product Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Product.md)
+- [Product Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Product.md)
 
--[Sprint Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Sprint1.md)
+- [Sprint Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Sprint1.md)
 
--[Requirements](https://github.com/bquiroga10/Group10/blob/master/artifacts/Requirements.md)
+- [Requirements](https://github.com/bquiroga10/Group10/blob/master/artifacts/Requirements.md)
 
--[Trello](https://trello.com/b/C5sP821a/group-10)
+- [Trello](https://trello.com/b/C5sP821a/group-10)
 
--[Burndown and Velocity chart](https://docs.google.com/spreadsheets/d/1c19jIiDAFveZubnuQdf-lcTjxe98yklTnnw0_VnYVbQ/edit?usp=sharing)
+- [Burndown and Velocity chart](https://docs.google.com/spreadsheets/d/1c19jIiDAFveZubnuQdf-lcTjxe98yklTnnw0_VnYVbQ/edit?usp=sharing)
 
 ------------------------------------------------------------------------------------------------
 
 **Sprint 2**
 
--[Product Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Product.md)
+- [Product Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Product.md)
 
--[Sprint Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Sprint1.md)
+- [Sprint Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Sprint1.md)
 
--[Requirements](https://github.com/bquiroga10/Group10/blob/master/artifacts/Requirements.md)
+- [Requirements](https://github.com/bquiroga10/Group10/blob/master/artifacts/Requirements.md)
 
--[Trello](https://trello.com/b/C5sP821a/group-10)
+- [Trello](https://trello.com/b/C5sP821a/group-10)
 
--[Burndown and Velocity chart](https://docs.google.com/spreadsheets/d/1c19jIiDAFveZubnuQdf-lcTjxe98yklTnnw0_VnYVbQ/edit?usp=sharing)
+- [Burndown and Velocity chart](https://docs.google.com/spreadsheets/d/1c19jIiDAFveZubnuQdf-lcTjxe98yklTnnw0_VnYVbQ/edit?usp=sharing)
 
--[Architecture](https://github.com/bquiroga10/Group10/tree/master/artifacts/architecture)
+- [Architecture](https://github.com/bquiroga10/Group10/tree/master/artifacts/architecture)
 
-  -[Architectural Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/ArchitecturalDiagram.png)
+  - [Architectural Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/ArchitecturalDiagram.png)
 
-  -[Class Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/ClassDiagram.PNG)
+  - [Class Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/ClassDiagram.PNG)
 
-  -[Sequence Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/SequenceDiagram.png)
+  - [Sequence Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/SequenceDiagram.png)
 
-  -[User Interface Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/User%20Interface%20Diagram.png)
+  - [User Interface Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/User%20Interface%20Diagram.png)
 
--[Demonstration](https://www.youtube.com/watch?v=IKeQ9VYvKb4)
+- [Demonstration](https://www.youtube.com/watch?v=IKeQ9VYvKb4)
 
