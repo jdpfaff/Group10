@@ -50,7 +50,7 @@ Unlike normal online quizzes, our game will allow the player the free will to ch
 
 ----------------------------------------------------------------------------------------------------
 
-**Sprint 3*
+**Sprint 3**
 
 - [Product Backlog](https://github.com/bquiroga10/Group10/blob/master/artifacts/Product.md)
 
@@ -76,4 +76,4 @@ Unlike normal online quizzes, our game will allow the player the free will to ch
 
 - Testing Files
 
-- [Demonstration](https://www.youtube.com/watch?v=IKeQ9VYvKb4)
+- Demonstration
