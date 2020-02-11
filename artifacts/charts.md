@@ -1,1 +1,1 @@
-[Link.]("https://docs.google.com/spreadsheets/d/1c19jIiDAFveZubnuQdf-lcTjxe98yklTnnw0_VnYVbQ/edit?usp=sharing")
+[Link.](https://docs.google.com/spreadsheets/d/1c19jIiDAFveZubnuQdf-lcTjxe98yklTnnw0_VnYVbQ/edit?usp=sharing)
