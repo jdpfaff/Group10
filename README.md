@@ -45,6 +45,7 @@ Unlike normal online quizzes, our game will allow the player the free will to ch
   - [Sequence Diagram](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/SequenceDiagram.png)
 
   - [User Interface Diagrams](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/UIHub.md)
+
 - [Demonstration](https://www.youtube.com/watch?v=IKeQ9VYvKb4)
 
 ----------------------------------------------------------------------------------------------------
