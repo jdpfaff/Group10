@@ -72,7 +72,7 @@ Unlike normal online quizzes, our game will allow the player the free will to ch
 
   - [User Interface Diagrams](https://github.com/bquiroga10/Group10/blob/master/artifacts/architecture/UIHub.md)
 
-- Coding Files
+- [Coding Files] (https://github.com/bquiroga10/Group10/tree/master/code)
 
 - Testing Files
 
