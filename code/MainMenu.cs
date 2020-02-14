@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEditor;
 
 
 public class MainMenu : MonoBehaviour
@@ -14,8 +15,8 @@ public class MainMenu : MonoBehaviour
 
     public void Quit()
     {
-        // Debug to check in Unity editor
-        Debug.Log("Quit game");
         Application.Quit();
+        // This is only used when in the Unity Editor, or else it wouldn't close when in the editor
+        EditorApplication.isPlaying = false;
     }
 }
